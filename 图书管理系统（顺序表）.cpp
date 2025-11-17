@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#inclue<bits/tdc++.h>
 #include<string>
 using namespace std;
 
@@ -198,4 +198,5 @@ int main(){
 }
 	
 	return 0;
+
 }
